@@ -1,4 +1,4 @@
-N=input('ingrese la cantidad de numeros primos que desee, esbroba "stop" para dejar de emular numeros: ')
+N=input('ingrese la cantidad de numeros primos que desee, esbriba "stop" para dejar de emular numeros: ')
 L=0
 while N!='stop':
     while not N.isnumeric():
